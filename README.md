@@ -59,6 +59,19 @@
     </div>
   </section>
 
+  <!-- Bog'lanish Bo'limi -->
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <h2 class="text-4xl font-bold text-center mb-8">Bog'lanish</h2>
+      <p class="text-center text-gray-700">Biz bilan bog‘laning:</p>
+      <div class="text-center mt-4">
+        <p class="text-lg">Telefon: <a href="tel:+998932720003" class="text-indigo-600">+998 93 272 00 03</a></p>
+        <p class="text-lg">Gmail: <a href="mailto:mtoxirxonov@gmail.com" class="text-indigo-600">mtoxirxonov@gmail.com</a></p>
+        <p class="text-lg">Telegram: <a href="https://t.me/isbotm_bor" target="_blank" class="text-indigo-600">Telegram Bog‘lanish</a></p>
+      </div>
+    </div>
+  </section>
+
   <!-- Footer -->
   <footer class="bg-indigo-600 text-white py-8 text-center">
     <p class="text-sm">© 2025 EduCraft. Barcha huquqlar himoyalangan.</p>
