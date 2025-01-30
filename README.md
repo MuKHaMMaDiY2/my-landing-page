@@ -45,15 +45,15 @@
       <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
         <div class="bg-white p-6 rounded-lg shadow-xl">
           <img src="https://via.placeholder.com/300x200?text=Slayd+Namuna" alt="Slayd namunasi" class="w-full rounded-md">
-          <p class="mt-4 text-gray-700 text-center">Slayd namunasini ko‘rish</p>
+          <p class="mt-4 text-gray-700 text-center"><a href="https://t.me/isbotm_bor" target="_blank" class="text-indigo-600">Slayd namunasini ko‘rish</a></p>
         </div>
         <div class="bg-white p-6 rounded-lg shadow-xl">
           <img src="https://via.placeholder.com/300x200?text=Kurs+Ishi+Namuna" alt="Kurs ishi namunasi" class="w-full rounded-md">
-          <p class="mt-4 text-gray-700 text-center">Kurs ishi namunasini ko‘rish</p>
+          <p class="mt-4 text-gray-700 text-center"><a href="https://t.me/isbotm_bor" target="_blank" class="text-indigo-600">Kurs ishi namunasini ko‘rish</a></p>
         </div>
         <div class="bg-white p-6 rounded-lg shadow-xl">
           <img src="https://via.placeholder.com/300x200?text=Mustaqil+Ish+Namuna" alt="Mustaqil ish namunasi" class="w-full rounded-md">
-          <p class="mt-4 text-gray-700 text-center">Mustaqil ish namunasini ko‘rish</p>
+          <p class="mt-4 text-gray-700 text-center"><a href="https://t.me/isbotm_bor" target="_blank" class="text-indigo-600">Mustaqil ish namunasini ko‘rish</a></p>
         </div>
       </div>
     </div>
