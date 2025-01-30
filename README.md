@@ -6,9 +6,19 @@
   <meta name="description" content="Slayd taqdimot, kurs ishi va mustaqil ish tayyorlash xizmatlari. Tez va sifatli yechim!">
   <meta name="keywords" content="slayd taqdimot, kurs ishi, mustaqil ish, talabalarga yordam, pedagogika">
   <meta name="author" content="Talaba Yordam">
- google-site-verification=vFizV-UXPJ4_fr2Z_6seFwkpjuQkUpdDx7nAHYeEbt0
+  <meta name="google-site-verification" content="vFizV-UXPJ4_fr2Z_6seFwkpjuQkUpdDx7nAHYeEbt0" />
   <title>EduCraft - Ta'limiy Yordam Xizmatlari</title>
   <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Google Analytics Tracking Code -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'GA_TRACKING_ID');
+  </script>
 </head>
 <body class="bg-gray-50 font-sans">
   <!-- Hero Section -->
