@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> <meta name="google-site-verification" content="8SdU0QJM7QBe2OxrGFRZNMu5_V_ZnNc4PeW4qtaQs1c" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Slayd taqdimot, kurs ishi va mustaqil ish tayyorlash xizmatlari. Tez va sifatli yechim!">
