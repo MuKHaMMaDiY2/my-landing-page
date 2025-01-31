@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<head> 
+<head> <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3QFG4Q22R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y3QFG4Q22R');
+</script>
   <meta name="google-site-verification" content="8SdU0QJM7QBe2OxrGFRZNMu5_V_ZnNc4PeW4qtaQs1c" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,7 +28,15 @@
 
     gtag('config', 'G-Y3QFG4Q22R');
   </script>
-</head>
+</head> <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3QFG4Q22R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y3QFG4Q22R');
+</script>
 <body class="bg-gray-50 font-sans">
   <!-- Hero Section -->
   <header class="bg-indigo-600 text-white py-16 text-center">
